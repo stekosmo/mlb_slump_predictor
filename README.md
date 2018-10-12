@@ -1,4 +1,4 @@
-# slump_predictor
+# mlb_slump_predictor
 
 Python code to predict the timing and length of hitting slumps for the 2017 season.
 
